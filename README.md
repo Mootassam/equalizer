@@ -4,18 +4,6 @@
 
 This is a solution to the [Equalizer landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/equalizer-landing-page-7VJ4gp3DE). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-
 
 ### Screenshot
 
@@ -43,6 +31,4 @@ I learned how to position two images as background and move them across the page
 - [BEM 101](https://sparkbox.com/foundry/bem_by_example) - BEM 101
 
 
-## Author
-- Github - [correlucas](https://github.com/correlucas/order-summary-component)
-- Frontend Mentor - [@correlucas](https://www.frontendmentor.io/profile/correlucas)
+
